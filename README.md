@@ -27,7 +27,7 @@
 
 ## Mes Statistiques Github 💫
 
-<div style="display: flex; flex-direction: row; justify-content: space-evenly">
+<div style="display: flex; flex-direction: row; justify-content: space-evenly; align-items: center;">
   <img src='https://github-readme-stats.vercel.app/api?username=guibi1&show_icons=true&count_private=true&hide_title=true'>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=guibi1&langs_count=3&hide_title=true'>
 </div>
