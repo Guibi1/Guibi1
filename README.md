@@ -3,8 +3,8 @@
 ### *Bienvenue sur mon Github !*
 
 💭 Je réfléchis en JavaScript.  
-✏️ J'apprends Flutter.  
-💤 Je rêve en Next.js.  
+✏️ J'apprends Svelte.  
+💤 Je rêve en Flutter.  
 📫 Toujours intéressé par un nouveau projet !  
 
 ## Les technologies que j'utilise ⌨️
